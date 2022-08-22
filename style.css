@@ -51,13 +51,13 @@ body {
     width: 150px;
     border-radius: 10px;
     padding: 10px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     margin-left: 50px;
     margin-top: 65px;
 }
 .reset {
-    margin-top: 20px;
+    margin-top: 18px;
 }
 .button_sesion:link, .button_reset:link, .button_sesion:hover, .button_reset:hover{
     background-color: aliceblue;
